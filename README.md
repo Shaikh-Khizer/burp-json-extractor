@@ -1,2 +1,2 @@
-# burp-json-extractor
-burp extension to extract json form response.
+# burp-json-js-extractor
+burp extension to extract json & js form response.
